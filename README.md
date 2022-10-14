@@ -30,3 +30,12 @@
   <a href="https://www.geeksforgeeks.org/" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
   </a>
+  <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+  <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="JS" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  
+  
+ [![Anirudh's github stats](https://github-readme-stats.vercel.app/api?username=anirudhsalaria&theme=blue-green)](https://github.com/anirudhsalaria)<br>
+ [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=anirudhsalaria&theme=blue-green)](https://github.com/anirudhsalaria)
