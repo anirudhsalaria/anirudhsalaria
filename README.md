@@ -36,6 +36,6 @@
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img alt="JS" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   
-  
- [![Anirudh's github stats](https://github-readme-stats.vercel.app/api?username=anirudhsalaria&theme=blue-green)](https://github.com/anirudhsalaria)<br>
+  ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+ [![Anirudh's github stats](https://github-readme-stats.vercel.app/api?username=anirudhsalaria&show_icons=true&count_private=true&theme=blue-green)](https://github.com/anirudhsalaria)<br>
  [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=anirudhsalaria&theme=blue-green)](https://github.com/anirudhsalaria)
