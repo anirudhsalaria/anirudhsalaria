@@ -40,4 +40,4 @@
  [![Anirudh's github stats](https://github-readme-stats.vercel.app/api?username=anirudhsalaria&show_icons=true&count_private=true&theme=blue-green)](https://github.com/anirudhsalaria)<br>
  [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=anirudhsalaria&theme=blue-green)](https://github.com/anirudhsalaria)
 
-<a href="https://github.com/anirudhsalaria"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhsalaria&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="350px"/></a>
+<a href="https://github.com/anirudhsalaria"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhsalaria&langs_count=8&count_private=true&layout=compact&theme=react&bg_color=0D1117" width="270px"/></a>
